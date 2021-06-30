@@ -8,7 +8,7 @@ public class ChildClass_Method_study {
 	
 	public ChildClass_Method_study() {
 		// 생성자 . 가장먼저 호출
-		System.out.println("--ChildClass constructor--");
+		System.out.println("--ChildClass constructor 생성자 실행 -- ");
 		
 		mySecret(); // 접근제어자가 private이라 내부 클래스에서만 사용이 가능하다.
 	}

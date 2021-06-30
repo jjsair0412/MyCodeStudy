@@ -8,7 +8,7 @@ public class Grandeur_class_base_study {
 	public Grandeur_class_base_study() { 
 		// 생성자. 해당 클래스에서 가장 먼저 실행되는 부분이다.
 		// 실행될 기능이 없다면 빈칸으로 놔두어도 된다.
-		System.out.println("Grandeur constructor");
+		System.out.println("Grandeur constructor 생성자 실행");
 	}
 	
 	public void run() {
