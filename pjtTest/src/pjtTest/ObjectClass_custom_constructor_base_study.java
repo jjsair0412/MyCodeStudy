@@ -28,6 +28,8 @@ public class ObjectClass_custom_constructor_base_study {
 		
 		this.x = x;
 		this.y = y;
+
+
 		
 		// this가 붙은 x는, ObjectClass_custom ''' 에서 작동하는 객체를 가르킨다.
 		// 따라서 this.x는 전역변수 x이다.
@@ -39,5 +41,6 @@ public class ObjectClass_custom_constructor_base_study {
 		System.out.println("getInfo 메서드 호출");
 		System.out.println("x --- > " + x);
 		System.out.println("y --- > " + y);
+
 	}
 }
