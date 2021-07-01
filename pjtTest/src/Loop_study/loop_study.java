@@ -1,4 +1,4 @@
-package pjtTest;
+package Loop_study;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class loop_study {
 			i++;
 		}
 	
-		
+		System.out.println("\n");
 		
 		do {
 			// do while문은, while문에 들어있는 조건식이 false이던 true이던 무조건 한번은 실행한다.

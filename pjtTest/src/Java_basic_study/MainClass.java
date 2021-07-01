@@ -1,4 +1,4 @@
-package pjtTest;
+package Java_basic_study;
 
 public class MainClass {
 	public static void main(String[] args) { 

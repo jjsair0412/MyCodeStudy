@@ -1,4 +1,4 @@
-package pjtTest;
+package Method_study;
 
 public class MainClass_Method_study {
 	public static void main(String[] args) {

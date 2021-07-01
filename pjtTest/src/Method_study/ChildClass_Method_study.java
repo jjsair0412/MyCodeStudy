@@ -1,4 +1,4 @@
-package pjtTest;
+package Method_study;
 
 public class ChildClass_Method_study {
 	public String name; // ¸â¹öº¯¼ö

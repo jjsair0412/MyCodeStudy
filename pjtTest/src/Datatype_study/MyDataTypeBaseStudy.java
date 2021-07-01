@@ -1,4 +1,4 @@
-package pjtTest;
+package Datatype_study;
 
 public class MyDataTypeBaseStudy {
 	public static void main(String[] args) {

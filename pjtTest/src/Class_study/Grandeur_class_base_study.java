@@ -1,4 +1,4 @@
-package pjtTest;
+package Class_study;
 
 public class Grandeur_class_base_study {
 	public String color; // ¸â¹ö º¯¼ö

@@ -1,4 +1,4 @@
-package pjtTest;
+package Static_study;
 
 import java.util.Scanner;
 // 다른 패키지에 존재하는 Scanner를 사용하기 위해, import 키워드를 사용했다.

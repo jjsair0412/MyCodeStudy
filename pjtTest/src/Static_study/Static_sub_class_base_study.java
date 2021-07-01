@@ -1,4 +1,4 @@
-package pjtTest;
+package Static_study;
 
 public class Static_sub_class_base_study {
 //	public String name;

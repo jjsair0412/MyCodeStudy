@@ -1,4 +1,4 @@
-package pjtTest;
+package Custom_constructor_study;
 
 public class ObjectClass_custom_constructor_base_study {
 	

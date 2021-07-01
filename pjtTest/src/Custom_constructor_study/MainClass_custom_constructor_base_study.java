@@ -1,4 +1,4 @@
-package pjtTest;
+package Custom_constructor_study;
 
 public class MainClass_custom_constructor_base_study {
 	public static void main(String[] arg) {

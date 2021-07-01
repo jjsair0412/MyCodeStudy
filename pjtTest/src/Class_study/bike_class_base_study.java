@@ -1,4 +1,4 @@
-package pjtTest;
+package Class_study;
 
 public class bike_class_base_study {
 

@@ -1,4 +1,4 @@
-package pjtTest;
+package Array_study;
 
 import java.util.Arrays;
 import java.util.Scanner;
