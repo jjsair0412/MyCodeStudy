@@ -2,6 +2,6 @@ package Interface_base_study;
 
 public interface interfaceB {
 
-	public void funB();
+	public float aListener();
 	
 }
