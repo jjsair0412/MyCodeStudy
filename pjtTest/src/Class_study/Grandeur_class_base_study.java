@@ -1,6 +1,7 @@
 package Class_study;
 
 public class Grandeur_class_base_study {
+	// class의 기본 구조는, 멤버변수, 생성자, 클래스의 기능을 나타내는 메서드로 이루어진다.
 	public String color; // 멤버 변수
 	public String gear;
 	public int price; 
